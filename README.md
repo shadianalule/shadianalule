@@ -1,22 +1,24 @@
-## Hi, I'm Shadia- Software Development Student & Future ML Engineer 👋
-I’m a Software Development student at Kristianstad University, building strong skills in programming, data analysis, machine learning, and modern software engineering. I’m especially passionate about data science, machine learning, and healthcare AI, where technology can truly improve lives.
+## 👋 Hi, I'm Shadia
+Software Development Student • Data Science & ML Enthusiast • Healthcare AI Explorer
 
-## 🚀 About Me <br>
-🎓 Bachelor Programme in Software Development (HKR) — learning Java, Python, web development, mobile apps, cloud services, data analysis, and machine learning. 
-🤖 Interested in machine learning, data science, healthcare AI, and intelligent systems. <br>
-💻 Building projects in Python, Java, HTML/CSS/JS, and full‑stack development. <br>
-📱 Exploring Android development, Firebase, and smart home automation.<br>
-🔬 Working on ML projects related to breast cancer detection and medical data. <br>
-🌍 Based in Skåne, Sweden.<br>
+I study Software Development at Kristianstad University, where I’m building strong foundations in programming, data analysis, machine learning, and modern software engineering. I’m especially interested in data science, machine learning, and healthcare AI.
+
+## 🌱 About Me <br>
+* Bachelor Programme in Software Development (HKR) <br>
+* Interested in machine learning, data science, healthcare AI, and intelligent systems  <br>
+* Building projects in Python, Java, HTML/CSS/JS, and full‑stack development  <br>
+* Exploring Android development, Firebase, and smart home automation  <br>
+* Working on ML projects related to breast cancer detection  <br>
+* Based in Skåne, Sweden  <br>
 
 ## 🎓 What I’m Learning at HKR<br>
 The HKR Software Development programme gives a broad and industry‑aligned skillset, including:<br>
-Programming in Java and Python<br>
-Developing web applications, client/server systems, and mobile apps<br>
-Working with cloud services, data analysis, and machine learning<br>
-Understanding algorithms, operating systems, data communication, and data security<br>
-Applying agile methods and test‑driven development<br>
-Collaborating on real projects with industry partners<br>
+* Programming in Java and Python<br>
+* Developing web applications, client/server systems, and mobile apps<br>
+* Working with cloud services, data analysis, and machine learning<br>
+* Understanding algorithms, operating systems, data communication, and data security<br>
+* Applying agile methods and test‑driven development<br>
+* Collaborating on real projects with industry partners<br>
 
 ## 🛠 Technical Skills<br> 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,16 +53,11 @@ Collaborating on real projects with industry partners<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### 📊 GitHub Stats
-![Shadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadianalule&show_icons=true&theme=transparent&cache_seconds=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadianalule&layout=compact&theme=transparent&cache_seconds=1)
-
-
 ## 🎯 Current Focus <br>
--Improving my ML models for healthcare datasets <br>
--Building clean, well‑documented software projects <br>
--Strengthening my Android + Firebase skills<br>
--Preparing for a career in data science or machine learning engineering <br>
+* Improving my ML models for healthcare datasets <br>
+* Building clean, well‑documented software projects <br>
+* Strengthening my Android + Firebase skills<br>
+* Preparing for a career in data science or machine learning engineering <br>
 
 ## 📫 Contact <br>
 GitHub: @shadianalule <br>
