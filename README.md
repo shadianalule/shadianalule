@@ -18,38 +18,43 @@ Understanding algorithms, operating systems, data communication, and data securi
 Applying agile methods and test‑driven development<br>
 Collaborating on real projects with industry partners<br>
 
-## 🛠 Technical Skills<br>
-Programming Languages<br>
-Python<br>
-Java<br>
-JavaScript<br>
-HTML & CSS<br>
-JSON<br>
-SQL<br>
+## 🛠 Technical Skills<br> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+
 
 ## Machine Learning & Data Science <br>
-Scikit‑learn <br>
-TensorFlow/Keras <br>
-Data preprocessing & feature engineering <br>
-Model evaluation & visualisation <br>
-Working with medical datasets <br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
 
 ## Web & Full‑Stack Development <br>
-HTML, CSS, JavaScript <br>
-REST APIs <br>
-Client/server applications <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 ## Mobile & Cloud <br>
-Android (Jetpack Compose) <br>
-Firebase Authentication & Realtime Database <br>
-Cloud services basics <br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ## Tools & Environments <br>
-Git & GitHub <br>
-VS Code<br>
-Android Studio <br>
-Jupyter Notebook <br>
-Agile & TDD workflows <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 📊 GitHub Stats
+![Shadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadianalule&show_icons=true&theme=transparent&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadianalule&layout=compact&theme=transparent&cache_seconds=1)
+
 
 ## 🎯 Current Focus <br>
 -Improving my ML models for healthcare datasets <br>
