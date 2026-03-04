@@ -10,7 +10,7 @@ I’m a Software Development student at Kristianstad University, building strong
 🌍 Based in Skåne, Sweden.<br>
 
 ## 🎓 What I’m Learning at HKR<br>
-The HKR Software Development programme gives me a broad and industry‑aligned skillset, including:<br>
+The HKR Software Development programme gives a broad and industry‑aligned skillset, including:<br>
 Programming in Java and Python<br>
 Developing web applications, client/server systems, and mobile apps<br>
 Working with cloud services, data analysis, and machine learning<br>
