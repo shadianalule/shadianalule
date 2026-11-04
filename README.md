@@ -1,26 +1,21 @@
 ## 👋 Hi, I'm Shadia
-Software Development Student • Data Science & ML Enthusiast • Healthcare AI Explorer
+Data Science | Artificial Intelligence | Machine Learning | Software Development
+I'm a Master's student in Data Science, AI and Machine Learning at Halmstad University, with a Bachelor's degree in Software Development.
 
-I study Software Development at Kristianstad University, where I’m building strong foundations in programming, data analysis, machine learning, and modern software engineering. I’m especially interested in data science, machine learning, and healthcare AI.
+I'm interested in using technology, data and intelligent systems to solve practical problems. My academic background has given me experience across software development, data analysis and machine learning, and I'm continuously working to strengthen my technical and analytical skills.
+
+I enjoy exploring how data can be transformed into meaningful insights and how software and AI can create useful solutions.
 
 ## 🌱 About Me <br>
-* Bachelor Programme in Software Development (HKR) <br>
-* Interested in machine learning, data science, healthcare AI, and intelligent systems  <br>
-* Building projects in Python, Java, HTML/CSS/JS, and full‑stack development  <br>
-* Exploring Android development, Firebase, and smart home automation  <br>
-* Working on ML projects related to breast cancer detection  <br>
-* Based in Skåne, Sweden  <br>
-
-## 🎓 What I’m Learning at HKR<br>
-The HKR Software Development programme gives a broad and industry‑aligned skillset, including:<br>
-* Programming in Java and Python<br>
-* Developing web applications, client/server systems, and mobile apps<br>
-* Working with cloud services, data analysis, and machine learning<br>
-* Understanding algorithms, operating systems, data communication, and data security<br>
-* Applying agile methods and test‑driven development<br>
-* Collaborating on real projects with industry partners<br>
+🎓 MSc student in Data Science, AI and Machine Learning.
+💻 Bachelor's degree in Software Development.
+📊 Interested in data analysis, machine learning and intelligent systems.
+🤖 Exploring practical applications of AI, including computer vision.
+🌱 Continuously developing my skills through academic and personal projects.
+📍 Based in Sweden.
 
 ## 🛠 Technical Skills<br> 
+### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -60,6 +55,8 @@ The HKR Software Development programme gives a broad and industry‑aligned skil
 * Preparing for a career in data science or machine learning engineering <br>
 
 ## 📫 Contact <br>
+🤝 Let's Connect <br>
+I'm always interested in connecting with people working in technology, data and AI, and learning about opportunities to collaborate and grow. <br>
 GitHub: @shadianalule <br>
 Email: naluleshadia91@gmail.com <br>
 Location: Skåne, Sweden <br>
