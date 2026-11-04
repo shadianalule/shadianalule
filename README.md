@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Shadia
-Data Science | Artificial Intelligence | Machine Learning | Software Development
+### Data Science | Artificial Intelligence | Machine Learning | Software Development <br>
 I'm a Master's student in Data Science, AI and Machine Learning at Halmstad University, with a Bachelor's degree in Software Development.
 
 I'm interested in using technology, data and intelligent systems to solve practical problems. My academic background has given me experience across software development, data analysis and machine learning, and I'm continuously working to strengthen my technical and analytical skills.
