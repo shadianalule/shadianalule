@@ -61,4 +61,6 @@ The HKR Software Development programme gives a broad and industry‑aligned skil
 
 ## 📫 Contact <br>
 GitHub: @shadianalule <br>
+Email: naluleshadia91@gmail.com <br>
 Location: Skåne, Sweden <br>
+
