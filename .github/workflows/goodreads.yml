@@ -1,0 +1,24 @@
+
+name: Update Goodreads Reading List
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Goodreads books
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "206210269"
+          shelf: "currently-reading"
