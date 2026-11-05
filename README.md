@@ -72,7 +72,6 @@ I enjoy exploring how data can be transformed into meaningful insights and how s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-
 ## 🚀 Selected Projects
 ### I enjoy applying my knowledge to practical problems through academic and independent projects.<br>
 #### Some areas I've explored include: 
@@ -80,6 +79,11 @@ Machine Learning: Developing and evaluating predictive models.<br>
 Computer Vision: Working with image classification and deep learning. <br>
 Data Analysis: Data cleaning, exploration, visualisation and interpretation. <br>
 Software Development: Building and exploring software-based solutions. <br>
+
+## 📚 Currently Reading
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ## 📫 Contact <br>
 🤝 Let's Connect <br>
