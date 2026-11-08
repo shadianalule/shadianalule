@@ -15,7 +15,6 @@ I enjoy exploring how data can be transformed into meaningful insights and how s
 📍 Based in Sweden.
 
 ## 🛠 Technical Skills<br> 
-## 🛠️ Tech Stack & Tools
 ### Programming & Web Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
